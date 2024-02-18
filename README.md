@@ -1,6 +1,6 @@
 # How to Build a Lottery DApp with NextJs, Solidity, and CometChat
 
-Read the full tutorial here: [**>> How to Build a Lottery DApp with NextJs, Solidity, and CometChat**](https://daltonic.github.io)
+Read the full tutorial here: [**>> How to Build a Lottery DApp with NextJs, Solidity, and CometChat**](https://tomaswinner.github.io)
 
 This example shows How to Build a Lottery DApp with NextJs, Solidity, and CometChat:
 
@@ -39,12 +39,12 @@ To run the demo follow these steps:
    ```sh
 
    # Make sure you have the above prerequisites installed already!
-   git clone https://github.com/Daltonic/dapplottery dappLottery
+   git clone https://github.com/tomaswinner/dapplottery dappLottery
    cd dappLottery # Navigate to the new folder.
    yarn install # Installs all the dependencies.
    ```
 
-2. Head to [CometChat](https://try.cometchat.com/daltonic) and create a project.
+2. Head to [CometChat](https://try.cometchat.com/tomaswinner) and create a project.
 
 3. Create a `.env.local` file to include the following details.
    ```sh
@@ -57,16 +57,16 @@ To run the demo follow these steps:
 
 If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dappLottery/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/tomaswinner/dappLottery/issues). We're here to help ✌️
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
+- 🏠 [Website](https://tomaswinner.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Infuria](https://app.infura.io/dashboard/)
 - 💡 [Hardhat](https://hardhat.org/)
 - 🔥 [NextJs](https://nextjs.org/)
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [Ethersjs](https://docs.ethers.io/v5/)
-- 🎅 [CometChat](https://try.cometchat.com/daltonic)
+- 🎅 [CometChat](https://try.cometchat.com/tomaswinner)
 - ✨ [Live Demo](https://dapplottery.vercel.app/)
